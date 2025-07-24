@@ -1,0 +1,6 @@
+streamlit==1.22.0
+openai==0.27.6
+langchain==0.0.150
+chromadb==0.3.21
+pypdf==3.8.1
+Pillow==9.5.0
