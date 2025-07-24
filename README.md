@@ -5,7 +5,7 @@ This project demonstrates how to build a "Interact with PDF" application using a
 1. Create a virtual environment `python -m venv venv`
 2. Activate it: 
    - Windows:`.\venv\Scripts\activate`
-   - Mac: `source langchain/bin/activate'
+   - Mac: `source venv/bin/activate'
 3. Clone this repo `git clone https://github.com/prakashgowdatr/InteractWithPdf.git`
 4. Install the required dependencies `pip install -r requirements.txt`
 5. Add your OpenAI APIKey in `app.py`
